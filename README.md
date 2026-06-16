@@ -71,7 +71,7 @@ graph TD
 
 In this collaborative group project, my primary responsibility was architecting the **Natural Language Processing Models and Backend API**. My specific contributions include:
 
-- **NLP Model Engineering:** Researched, fine-tuned, and implemented the three core sentiment analysis engines (DistilBERT, the Hybrid IndoBERT + Gemini pipeline, and the LLM prompt-engineering logic) to accurately extract sentiment polarity and specific review aspects.
+- **NLP Model Engineering:** Researched, fine-tuned, and implemented the three core sentiment analysis engines (DistilBERT, the Hybrid BERT + Gemini pipeline, and the LLM prompt-engineering logic) to accurately extract sentiment polarity and specific review aspects.
 - **Backend API Development:** Designed the Python-based backend architecture to serve the NLP models, exposing robust RESTful endpoints for the frontend to consume.
 - **Hugging Face Deployment:** Packaged the heavy NLP inference engine and successfully deployed it to Hugging Face Spaces, ensuring seamless communication with the frontend application.
 
@@ -80,7 +80,7 @@ In this collaborative group project, my primary responsibility was architecting 
 **Backend & AI Models (My Contribution - Hosted on Hugging Face)**
 
 - **Python** 🐍 (Core Backend Language)
-- **Hugging Face Transformers** 🤗 (DistilBERT & IndoBERT implementations)
+- **Hugging Face Transformers** 🤗 (DistilBERT implementations)
 - **Google Gemini API** ✨ (`@google/genai` for LLM and Hybrid processing)
 
 **Frontend & BaaS (Client)**
@@ -95,7 +95,7 @@ In this collaborative group project, my primary responsibility was architecting 
  ┣ 📂 api               # (My Contribution) Backend API endpoints
  ┣ 📂 code              # (My Contribution) Model training & evaluation notebooks
  ┃ ┣ 📜 bert.ipynb      # DistilBERT training/evaluation
- ┃ ┣ 📜 hybrid.ipynb    # Hybrid model (IndoBERT + Gemini) experiments
+ ┃ ┣ 📜 hybrid.ipynb    # Hybrid model (BERT + Gemini) experiments
  ┃ ┣ 📜 llm.ipynb       # Pure LLM prompting experiments
  ┃ ┗ 📜 train_new.ipynb # Main training and fine-tuning scripts
  ┣ 📂 public            # Static assets (Logos, Icons, etc.)
@@ -125,18 +125,18 @@ In this collaborative group project, my primary responsibility was architecting 
    ```
 2. Run Backend API (NLP Engine)
    Navigate to the api directory, install Python requirements, and run the server:
-   `bash
+   ```bash
     cd api
     pip install -r requirements.txt
     uvicorn app:app --reload --port 8000
-    `
+    ```
 
 3. Run Frontend Development Server
    Open a new terminal, navigate to the project root, install Node dependencies, and start Vite:
-   `bash
+   ```bash
     npm install
     npm run dev
-    `
+    ```
 
 ## 🌐 Deployment Architecture
 
