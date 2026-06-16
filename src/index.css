@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  /* Brand-specific Colors from Nomnom.ai specification */
+  --color-brand-primary: #a53b22;
+  --color-brand-primary-light: #ff7e5f;
+  --color-brand-secondary: #feb47b;
+  --color-brand-on-primary: #ffffff;
+  --color-brand-background: #fbf9f8;
+  --color-brand-surface: #ffffff;
+  --color-brand-accent-teal: #4ecdc4;
+  --color-brand-dark: #1b1c1c;
+  --color-brand-brown-muted: #8b716b;
+  --color-brand-peach-tag: #ffece8;
+}

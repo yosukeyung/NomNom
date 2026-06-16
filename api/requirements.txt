@@ -1,0 +1,9 @@
+transformers>=4.40.0
+torch>=2.0.0
+safetensors
+fastapi
+uvicorn[standard]
+spacy>=3.7.0
+contractions
+pandas
+pydantic

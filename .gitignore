@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env.local
+.vercel/
+
+checkpoint-10000
+fe
+huggingface
+scratch
+models.json
+*.pdf
+*.docx
+revisi_nlp1.md 
+revisi_text.txt 
+vercel.json.bak 
