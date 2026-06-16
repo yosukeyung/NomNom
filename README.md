@@ -19,6 +19,12 @@
 
 Nomnom AI empowers restaurant owners and food reviewers by automating text processing to understand customer feedback deeply. Instead of just knowing if a review is good or bad, the system identifies _what_ exactly the customer is praising or complaining about. To achieve this, the platform offers three distinct AI inference engines: **DistilBERT**, a **Hybrid Model (Gemini 2.5 Flash + BERT)**, and a pure **LLM approach**.
 
+## 🎥 Video Demonstration
+
+[![Demo](./public/nomnom.png)](https://drive.google.com/file/d/1_NkYqMv0026lT13AZFgi94WKxBkVbHlb/view?usp=drive_link)
+
+*(Click the image above to watch the full demonstration)*
+
 ## ✨ Key Features
 
 - **🎯 Aspect-Based Extraction:** Identifies specific aspects within a review (e.g., food quality, ambiance, customer service) alongside the sentiment, enabling targeted business improvements.
