@@ -13,7 +13,7 @@
 >
 > **Status:** 🟢 Active (Currently in progress: Developing the Nomnom AI Browser Extension!)
 >
-> **🌟 Live Demo:** [**Nomnom AI Web App**](https://nomnomai.vercel.app/) | [**NLP Inference API**](https://huggingface.co/spaces/mpricillia/nomnom)
+> **🌟 Live Demo:** [**Nomnom AI Web App**](https://nomnomai.vercel.app/) | [**NLP Inference API**](https://huggingface.co/spaces/mpricillia/nomnom) | [**Frontend Source Code**](https://github.com/mpricillia/nomnom)
 
 ## 📖 Project Overview
 
