@@ -140,7 +140,7 @@ In this collaborative group project, my primary responsibility was architecting 
 
 ## 🌐 Deployment Architecture
 
-- Frontend (Vercel): The React client application is optimized and hosted on Vercel utilizing the Vite framework preset. Supabase credentials must be set in Vercel's Environment Variables[cite: 23].
+- Frontend (Vercel): The React client application is optimized and hosted on Vercel utilizing the Vite framework preset. Supabase credentials must be set in Vercel's Environment Variables.
 
 - Backend (Hugging Face Spaces): The NLP inference API (DistilBERT and Hybrid processing logic) is deployed on Hugging Face Spaces to efficiently handle model computations.
 
