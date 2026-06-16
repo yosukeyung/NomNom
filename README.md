@@ -5,11 +5,13 @@
 ![Hugging Face](https://img.shields.io/badge/NLP-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/LLM-Google_Gemini-8E75B2?style=flat&logo=googlebard&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Group_Project-8A2BE2)
 
 > **A smart, modern web application for Aspect-Based Sentiment Analysis (ABSA) on food reviews. Nomnom AI goes beyond simple positive/negative scoring by extracting specific review aspects (e.g., taste, service, price) to provide actionable insights for F&B businesses.**
 > _Built as a Natural Language Processing (NLP) university final project!_ 🚀
+>
+> **Status:** 🟢 Active (Currently in progress: Developing the Nomnom AI Browser Extension!)
 >
 > **🌟 Live Demo:** [**Nomnom AI Web App**](https://nomnomai.vercel.app/) | [**NLP Inference API**](https://huggingface.co/spaces/mpricillia/nomnom)
 
