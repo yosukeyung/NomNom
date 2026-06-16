@@ -30,7 +30,7 @@ Nomnom AI empowers restaurant owners and food reviewers by automating text proce
 - **🎯 Aspect-Based Extraction:** Identifies specific aspects within a review (e.g., food quality, ambiance, customer service) alongside the sentiment, enabling targeted business improvements.
 - **🤖 Triple AI Model Selection:**
   - **DistilBERT:** 100% free local inference using Hugging Face models.
-  - **Hybrid Model:** Leverages Google Gemini 2.5 Flash combined with IndoBERT for advanced context understanding and batch processing.
+  - **Hybrid Model:** Leverages Google Gemini 2.5 Flash combined with BERT for advanced context understanding and batch processing.
   - **LLM:** Pure Large Language Model analysis for deep reasoning.
 - **📊 Rich Dashboard & Smart Quota System:** Automated segmented credit policy with a visually pleasing capacity dashboard, usage history, and sentiment distribution charts.
 - **🔒 Secure Local Sandbox:** API keys are stored securely in the browser's local storage. No sensitive API data is synced to the database.
