@@ -89,6 +89,11 @@ In this collaborative group project, my primary responsibility was architecting 
 - **Tailwind CSS & Framer Motion** 🎨
 - **Supabase** 🗄️ (PostgreSQL & Authentication)
 
+## 🚀 Upcoming Features (Roadmap)
+
+This project is currently in **Active Development** as we are expanding its capabilities:
+- **🧩 Browser Extension:** We are currently building a Chrome/Edge browser extension to allow users to perform on-the-fly Aspect-Based Sentiment Analysis directly on popular food review platforms (e.g., Google Maps, Yelp) without leaving the page.
+
 ## 📂 Project Structure
 
 ```text
